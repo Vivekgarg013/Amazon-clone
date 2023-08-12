@@ -1,2 +1,2 @@
-# Amazon-clone
-It is a static amazon clone website 
+# usabilityHub-clone
+It is a static usabilityHub clone website 
